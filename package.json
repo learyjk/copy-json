@@ -1,0 +1,31 @@
+{
+  "name": "copy-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild index.ts --bundle --minify --outfile=index.min.js --watch",
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learyjk/copy-json.git"
+  },
+  "keywords": [
+    "copy",
+    "json",
+    "webflow"
+  ],
+  "author": "Keegan Leary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learyjk/copy-json/issues"
+  },
+  "homepage": "https://github.com/learyjk/copy-json#readme",
+  "devDependencies": {
+    "esbuild": "^0.15.12",
+    "serve": "^14.0.1",
+    "typescript": "^4.8.4"
+  }
+}
