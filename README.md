@@ -2,6 +2,10 @@
 
 A no-code tool to copy Webflow component json to clipboard.
 
+## Example and Cloneable
+
+[https://webflow.com/made-in-webflow/website/copy-json](https://webflow.com/made-in-webflow/website/copy-json)
+
 ## Installation
 
 ### 1. Add script tag to before `</body>`
