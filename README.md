@@ -14,7 +14,7 @@ A no-code tool to copy Webflow component json to clipboard.
 
 To the link block: `wb-data="copy-button"`\
 To the button text div: `wb-data="text"`\
-To the hidden json: `wb-data="json"`\
+To the hidden json: `wb-data="json"`
 
 <img src="assets/button-attr.png" alt="button attributes" width="300"/>
 <img src="assets/text-attr.png" alt="text attributes" width="300"/>
