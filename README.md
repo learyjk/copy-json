@@ -4,7 +4,7 @@ A no-code tool to copy Webflow component json to clipboard.
 
 ## Installation
 
-1. Add script tab to before </body>
+1. Add script tab to before `</body>`
 2. Create your HTML: A link block with two div text children, the button text and json data (hide this)
 
 ![html structure](assets/html.png)
